@@ -28,3 +28,7 @@ dl {
     margin: 0;
   }
 }
+
+#main > ul > li > h3 {
+    list-style-type: none !important;
+}
